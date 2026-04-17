@@ -42,7 +42,6 @@ done
 %files
 %config(noreplace) %{_sysconfdir}/httpd/modsecurity.d/activated_rules/*
 %config %{_sysconfdir}/httpd/modsecurity.d/crs-setup.conf
-%config(noreplace) %{_sysconfdir}/httpd/modsecurity.d/local_rules/*
 %{_datarootdir}/mod_modsecurity_crs
 
 
