@@ -6,7 +6,7 @@ License: ASL 2.0
 URL: https://coreruleset.org
 Group: System Environment/Daemons
 
-Source0: https://codeload.github.com/german-gonzalez-ruiz/crs-migration/tar.gz/refs/tags/v%{version}
+Source0: https://codeload.github.com/tilsor/crs-migration/tar.gz/refs/tags/v%{version}
 BuildArch: noarch
 Requires: mod_security >= 2.9.6
 Obsoletes: mod_security_crs-extras < 3.0.0
